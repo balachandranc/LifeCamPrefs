@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<trueColorEnabled>false</trueColorEnabled>
+
+	<cameras>
+	
+		<camera
+			name="Microsoft® LifeCam HD-3000"
+			autoFocus="false"
+			autoWhiteBalance="false"
+			autoExposure="false"
+			
+			focus="2"
+			zoom="0"
+			pan="0"
+			tilt="0"
+			
+			brightness="0"
+			whiteBalance="5300"
+			saturation="50"
+			exposure="-8"
+			/>
+
+	</cameras>
+</config>
